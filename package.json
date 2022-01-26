@@ -1,0 +1,14 @@
+{
+ "name": "ssmyjs-cli",
+ "version": "1.0.0",
+ "repository": "https://github.com/ssmyjs/ssmyjs-cli.git",
+ "author": "wangzherlf <wangzherlf@sina.com>",
+ "license": "MIT",
+ "bin": {
+  "ssmyjs": "bin/ssmyjs"
+ },
+ "dependencies": {
+  "chalk": "1",
+  "commander": "^8.3.0"
+ }
+}
